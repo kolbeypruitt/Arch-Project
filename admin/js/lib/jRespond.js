@@ -181,7 +181,7 @@
 
 		};
 
-		// takes the breakpoint/s arguement from an object and tests it against the current state
+		// takes the breakpoint/s argument from an object and tests it against the current state
 		var testForCurr = function(elm) {
 
 			// if there's an array of breakpoints
